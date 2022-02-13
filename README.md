@@ -66,12 +66,12 @@ contains the information of all three inputs. This flattened vector is then used
 vector of a fully connected ANN that predicts the ball position in one of the sections of the
 image grid.
 
-![cnn](https://user-images.githubusercontent.com/63397065/153750187-d2ec065e-4071-4268-a984-50045080c33d.PNG)
+<img src=https://user-images.githubusercontent.com/63397065/153750187-d2ec065e-4071-4268-a984-50045080c33d.PNG width="700">
 
 Both sequential CNN use the same structure. This DL network architecture results in 36,839,006 trainable
 parameters.
 
-![network](https://user-images.githubusercontent.com/63397065/153750192-e6e1a551-3055-4ff6-ab02-58d58e2b43c5.PNG)
+<img src=https://user-images.githubusercontent.com/63397065/153750192-e6e1a551-3055-4ff6-ab02-58d58e2b43c5.PNG width="700">
 
 ## Evaluation
 
