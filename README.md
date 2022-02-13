@@ -1,5 +1,8 @@
 # FootballTracker
-Ball detector and tracker for videos of football games
+Learning a ball detector and tracker for videos of football games using Computer Vision techniques and Convolutional Neural Networks
+
+![BallTracker_Video3](https://user-images.githubusercontent.com/63397065/153762143-c00c858b-1413-4764-ac0c-f6125535dccb.gif)
+
 
 ## Introduction 
 Football is with 250 million players in over 200 countries by far the most popular sport in the
