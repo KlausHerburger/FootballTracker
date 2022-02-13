@@ -1,7 +1,7 @@
 # FootballTracker
 Ball detector and tracker for videos of football games
 
-# Introduction 
+## Introduction 
 Football is with 250 million players in over 200 countries by far the most popular sport in the
 world. The international competitions such as the World Cup and the Champions League, as
 well as the individual country championships are watched by billions of people around the world.
@@ -28,7 +28,7 @@ that contains six videos of synchronized long shot views of the football pitch a
 cameras recording at 25 frames per second. The videos are acquired during matches of the
 Italian ’Serie A’. 
 
-# Concept of the Deep Learning Model
+## Concept of the Deep Learning Model
 
 The method that is applied in this work to track the ball uses the sum of the aggregated image
 frames of each video and the given annotations with the ball position of each frame to learn
@@ -73,7 +73,7 @@ parameters.
 
 ![network](https://user-images.githubusercontent.com/63397065/153750192-e6e1a551-3055-4ff6-ab02-58d58e2b43c5.PNG)
 
-# Evaluation
+## Evaluation
 
 For approx. 96% of all images the model predicts the correct grid section for the ball
 location, which is a high amount considering the 1126 different classes that represent the grid
