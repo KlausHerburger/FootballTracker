@@ -1,5 +1,4 @@
 # FootballTracker
-
 Learning a ball detector and tracker for videos of football games using Computer Vision techniques and Convolutional Neural Networks
 
 ![BallTracker_Video3](https://user-images.githubusercontent.com/63397065/153762143-c00c858b-1413-4764-ac0c-f6125535dccb.gif)
